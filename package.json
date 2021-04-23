@@ -1,0 +1,17 @@
+{
+  "name": "digital-clock-and-stopwatch",
+  "version": "1.0.0",
+  "description": "Digital clock with a timer",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass sass/sass.scss css/style.css -w"
+  },
+  "author": "Saiful Islam",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  },
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
